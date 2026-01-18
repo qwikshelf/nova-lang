@@ -25,4 +25,5 @@ Clone the repository and run the REPL (Read-Eval-Print Loop):
 ```bash
 git clone [https://github.com/qwikshelf/nova-lang.git](https://github.com/qwikshelf/nova-lang.git)
 cd nova-lang
-cargo run
+cargo run 
+```
